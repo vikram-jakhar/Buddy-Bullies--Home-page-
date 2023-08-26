@@ -1,0 +1,82 @@
+    <div id="Faq" class="bg-blue position-relative z-2 mt_2">
+        <div class="container-xl  container-faq  pt-5 pb-5">
+            <h2 class="text-white text-center fs-50 fw-600 ff-p pt-5 ">FAQs</h2>
+            <div class="position-relative  z-2 pt-5 ">
+                <div class="accordion accordion-flush" id="accordionFlushExample">
+                    <div class="accordion-item bg-transparent border-0 mb-3">
+                        <h2 class="accordion-header" id="flush-headingOne">
+                            <button
+                                class="accordion-button bs-card collapsed fs-20 fw-500 ff-m text-white rounded-pill overflow-hidden shadow-none "
+                                type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
+                                aria-expanded="false" aria-controls="flush-collapseOne">
+                                What's the blockchain the buddybullies call home ?
+                            </button>
+                        </h2>
+                        <div id="flush-collapseOne" class="accordion-collapse collapse"
+                            aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body  text-white fs-16 fw-500 ff-m">Hac varius turpis sit pulvinar
+                                lorem magna velit sit. Dapibus mattis
+                                adipiscing ornare arcu vitae enim. Proin turpis enim egestas sed in accumsan, feugiat
+                                neque turpis.
+                                Fringilla dui donec nullam faucibus vitae non, integer. Non.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bg-transparent border-0 mb-3">
+                        <h2 class="accordion-header" id="flush-headingtwo">
+                            <button
+                                class="accordion-button collapsed bs-card collapsed fs-20 fw-500 ff-m text-white rounded-pill overflow-hidden shadow-none"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsetwo"
+                                aria-expanded="false" aria-controls="flush-collapsetwo">
+                                What's the blockchain the buddybullies call home ?
+                            </button>
+                        </h2>
+                        <div id="flush-collapsetwo" class="accordion-collapse collapse"
+                            aria-labelledby="flush-headingtwo" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body text-white fs-16 fw-500 ff-m">Hac varius turpis sit pulvinar
+                                lorem magna velit sit. Dapibus mattis
+                                adipiscing ornare arcu vitae enim. Proin turpis enim egestas sed in accumsan, feugiat
+                                neque turpis.
+                                Fringilla dui donec nullam faucibus vitae non, integer. Non.</div>
+                        </div>
+                    </div>
+                    <div class="accordion-item bg-transparent border-0 mb-3">
+                        <h2 class="accordion-header" id="flush-headingthree">
+                            <button
+                                class="accordion-button collapsed bs-card collapsed fs-20 fw-500 ff-m text-white rounded-pill overflow-hidden shadow-none"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsethree"
+                                aria-expanded="false" aria-controls="flush-collapsethree">
+                                What's the blockchain the buddybullies call home ?
+                            </button>
+                        </h2>
+                        <div id="flush-collapsethree" class="accordion-collapse collapse"
+                            aria-labelledby="flush-headingthree" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body text-white fs-16 fw-500 ff-m">Hac varius turpis sit pulvinar
+                                lorem magna velit sit. Dapibus mattis
+                                adipiscing ornare arcu vitae enim. Proin turpis enim egestas sed in accumsan, feugiat
+                                neque turpis.
+                                Fringilla dui donec nullam faucibus vitae non, integer. Non.</div>
+                        </div>
+                    </div>
+
+                    <div class="accordion-item bg-transparent border-0">
+                        <h2 class="accordion-header" id="flush-headingfour">
+                            <button
+                                class="accordion-button collapsed bs-card collapsed fs-20 fw-500 ff-m text-white rounded-pill overflow-hidden shadow-none"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsefour"
+                                aria-expanded="false" aria-controls="flush-collapsefour">
+                                What's the blockchain the buddybullies call home ?
+                            </button>
+                        </h2>
+                        <div id="flush-collapsefour" class="accordion-collapse collapse"
+                            aria-labelledby="flush-headingfour" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body text-white fs-16 fw-500 ff-m">Hac varius turpis sit pulvinar
+                                lorem magna velit sit. Dapibus mattis
+                                adipiscing ornare arcu vitae enim. Proin turpis enim egestas sed in accumsan, feugiat
+                                neque turpis.
+                                Fringilla dui donec nullam faucibus vitae non, integer. Non.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

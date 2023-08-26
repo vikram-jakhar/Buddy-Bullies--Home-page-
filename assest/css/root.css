@@ -1,0 +1,25 @@
+:root{
+    /* color  / */
+    --white:white;
+    --black:#001d49;
+    --bs-black:#000A1A;
+
+    /* / font size  / */
+    --fs-22:22px;
+    --fs-18:18px;
+    --fs-70:70px;
+    --fs-20:20px;
+    --fs-25:25px;
+    --fs-50:50px;
+    --fs-30:30px;
+    --fs-16:16px;
+
+    /* / font weight  / */
+    --fw-400:400px;
+    --fw-500:500px;
+    --fw-600:600px;
+
+    /*    */
+    --ff-p:'Poppins', sans-serif;
+    --ff-m:'Montserrat', sans-serif;
+}
